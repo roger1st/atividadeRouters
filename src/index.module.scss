@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+a,
+button,
+svg,
+img {
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+}
